@@ -1,4 +1,3 @@
-Hello world!
 Name: [Jonathan Arciaga Cruz]
 Course: [Bachelor of Science in Information Technology]
 Interests in programming: [Everything]
